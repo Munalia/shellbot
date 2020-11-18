@@ -81,7 +81,7 @@ ETA 🕰: {4}
       DOWNLOAD_START = "<b>Downloding To My Server</b> 📥 \n<code>Please Wait... Uploding Start Soon</code>"
       DOWNLOAD_COMPLETE = "✅ Media Downloaded successfully\nPreparing for upload"
       UPLOAD_START = "<b>Uploding To Telegram</b> 📤 \n<code>😁😍👍Hurray!!!</code>"
-      UPLOAD_COMPLETE = "THANKS FOR USING ME"
+      UPLOAD_COMPLETE = "<b>Thanks For Using Me👍👌😊</b>"
       SAVED_CUSTOM_THUMB_NAIL = "✅ Saved Thumbnail Successfully. This will be deleted in 24hrs"
       BANNED_TEXT = "YOU ARE BANNED. SO YOUR ARE NOT ABLE TO USE ME 🐒"
       REPLY_TEXT = "👩‍✈️ Reply to the media which you need to convert"
